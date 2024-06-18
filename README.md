@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Once cloned, navigate into the project's root directory and run `npm start --force`.
+
 ## Available Scripts
 
 In the project directory, you can run:
